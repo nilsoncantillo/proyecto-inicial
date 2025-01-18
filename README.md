@@ -1,4 +1,4 @@
-# proyecto-inicial
+# proyecto-inicial - primer repositorio
 Primer repo creado en github
 
 ##desacripción
